@@ -1,0 +1,9 @@
+.flex-container{
+	display: flex;
+	justify-content: space-evenly;
+	flex-flow:row-wrap;
+}
+
+.flex-container div{
+	font-size: 100px;
+}
