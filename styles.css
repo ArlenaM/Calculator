@@ -2,9 +2,9 @@
 	display: flex;
 	justify-content: space-evenly;
 	flex-flow: row wrap;
-	height:150px;
-	width:150px;
-	border: 10px solid black;
+	height:500px;
+	width:250px;
+	border: 1px solid black;
 }
 
 .flex-container div{
@@ -12,5 +12,7 @@
 	align-content: center;
 }
 
-/*#first-row{}
-*/	
+.numButton{
+	padding: 10px;
+	border: 1px solid black;
+}
