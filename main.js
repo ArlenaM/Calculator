@@ -18,3 +18,4 @@ function divide(n1, n2){
 }
 //calculate function
 //erase function
+
